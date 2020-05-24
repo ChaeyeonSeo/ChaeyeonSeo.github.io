@@ -27,3 +27,6 @@ layout: post
 - even-more-python-for-beginners 코드들을 직접 실행할 때 잘 이해가 되지 않는 부분이 있으면 초보자도 이해할 수 있도록 설명을 덧붙인다.
 - even-more-python-for-beginners 내 코드들의 README를 한글로 번역한다.
 
+
+
+※팀원 별 역할 분담은 "팀 진행사항" 포스트의 <프로젝트 내 개인 역할 분담> 파트에서 볼 수 있다.
