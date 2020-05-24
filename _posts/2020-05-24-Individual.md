@@ -14,7 +14,6 @@ layout: post
 - python-for-beginners의 코드를 초보자의 입장에서 직접 실행해보고 문제점이 생기는 부분이 있는지 확인하고, 코드를 검토한다.
 - python-for-beginners의 코드의 오류를 수정한다.
 - python-for-beginners에 초보자 입장에서 잘 모르겠는 부분에 대한 부연설명을 작성하고, 필요한 code가 있다면 추가한다.
-- python-for-beginners 폴더 내 ppt들을 순서대로 잘 정렬한다.
 
 
 **<more-python-for-beginners** **기여방안>**
