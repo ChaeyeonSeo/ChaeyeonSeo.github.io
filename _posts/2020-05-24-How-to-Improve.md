@@ -23,6 +23,7 @@ layout: post
 * Python을 처음 배우는 사용자 입장으로 컨텐츠들을 분석하며 필요한 부분을 추가한다.
 
 
+
 **<python-for-beginners** **폴더>**
   
 * python-for-beginners 폴더 내에 code가 02번째부터 시작하는데, 01번째 code를 추가한다.
@@ -30,11 +31,13 @@ layout: post
 * python-for-beginners/Slides 폴더 속 문서들이 leading zero가 없어서 제대로 정렬이 되지 않은 것을 수정해서 정렬이 잘 이루어지도록 한다.
 
 
+
 **<more-python-for-beginners** **폴더>**
   
 * more-python-for-beginners 폴더 내 코드에 설명이 많이 없는데, 설명하는 주석을 달아서 이해를 돕는다.
   
 * more-python-for-beginners 폴더 내 주제 별로 코드가 적은 경우가 있는데, 예제 코드를 직접 작성하여 이해를 돕는다.
+
 
 
 **<even-more-python-for-beginners** **폴더>**
