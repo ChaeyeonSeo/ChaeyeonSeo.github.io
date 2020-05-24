@@ -30,7 +30,7 @@ layout: post
 * python-for-beginners/Slides 폴더 속 문서들이 leading zero가 없어서 제대로 정렬이 되지 않은 것을 수정해서 정렬이 잘 이루어지도록 한다.
 
 
-**<more- python-for-beginners** **폴더>**
+**<more-python-for-beginners** **폴더>**
   
 * more-python-for-beginners 폴더 내 코드에 설명이 많이 없는데, 설명하는 주석을 달아서 이해를 돕는다.
   
