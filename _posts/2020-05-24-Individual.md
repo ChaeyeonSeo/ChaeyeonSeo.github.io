@@ -4,9 +4,9 @@ author: ChaeyeonSeo
 layout: post
 ---
 
-:bulb: 이 프로젝트는 Python에 대해 아예 모르는 사람, 약간 아는 사람, data science에 필요한 Python을 배우고 싶은 사람을 대상으로 하고, 각 대상에 맞게 python-for-beginners, more-python-for-beginners, even-more-python-for-beginners-data-tools로 폴더가 나뉘어 있다.
+- 이 프로젝트는 Python에 대해 아예 모르는 사람, 약간 아는 사람, data science에 필요한 Python을 배우고 싶은 사람을 대상으로 하고, 각 대상에 맞게 python-for-beginners, more-python-for-beginners, even-more-python-for-beginners-data-tools로 폴더가 나뉘어 있다.
 
-:bulb: 나는 Python 초보자이기 때문에 가장 먼저 공부하게 되는 python-for-beginners에 초보자의 입장을 생각해서 기여를 하면 이 프로젝트를 활용하는 사람에게 가장 큰 도움이 될 수 있을 것이라고 생각해서 python-for-beginners 폴더에 많이 기여하고자 한다. 하지만 more-python-for-beginners와 even-more-python-for-beginners 폴더가 python-for-beginners 폴더보다 완성도가 낮아서, 나머지 두 폴더에도 많이 기여할 수 있을 것 같다. 또한 even-more-python-for-beginners의 경우, 내용이 어려워서 한글로 번역하면 사람들이 더 유용하게 쓸 수 있을 것 같다.
+- 나는 Python 초보자이기 때문에 가장 먼저 공부하게 되는 python-for-beginners에 초보자의 입장을 생각해서 기여를 하면 이 프로젝트를 활용하는 사람에게 가장 큰 도움이 될 수 있을 것이라고 생각해서 python-for-beginners 폴더에 많이 기여하고자 한다. 하지만 more-python-for-beginners와 even-more-python-for-beginners 폴더가 python-for-beginners 폴더보다 완성도가 낮아서, 나머지 두 폴더에도 많이 기여할 수 있을 것 같다. 또한 even-more-python-for-beginners의 경우, 내용이 어려워서 한글로 번역하면 사람들이 더 유용하게 쓸 수 있을 것 같다.
 
 
 
